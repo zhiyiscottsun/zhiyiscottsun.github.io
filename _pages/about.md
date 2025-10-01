@@ -4,7 +4,7 @@ title: about
 permalink: /
 profile:
   align: right
-  image: assets/img/prof_pic.jpg   # 头像放在 assets/img/ 下
+  image: prof_pic.jpg   # 头像放在 assets/img/ 下
   image_circular: false            # 想要圆形头像就改成 true
   address: >
     University of North Carolina at Chapel Hill  
