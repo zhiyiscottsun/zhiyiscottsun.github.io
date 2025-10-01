@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: Conference
+title: Conferences
 nav: true
 nav_order: 1
 pagination:
