@@ -22,7 +22,7 @@ latest_posts:
   limit: 3
 ---
 
-I’m **Zhiyi (Scott) Sun**, a PhD student in the Carolina Health Informatics Program (CHIP) at the University of North Carolina at Chapel Hill.
+I’m a PhD student in the Carolina Health Informatics Program (CHIP) at the University of North Carolina at Chapel Hill.
 
 My research focuses on biomedical and health informatics, data science, digital health, human–computer interaction, and AI for health, with emphasis on large language models (LLMs) in healthcare, retrieval-augmented generation (RAG), human–AI collaboration and alignment, clinical decision support, and precision health and medicine.
 
