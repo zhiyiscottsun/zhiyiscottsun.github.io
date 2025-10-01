@@ -36,7 +36,9 @@ layout: default
             <div class="contact-icons">
               {% include social.liquid %}
             </div>
-            {# <div class="contact-note">{{ site.contact_note }}</div> #}
+            {% comment %}
+            <div class="contact-note">{{ site.contact_note }}</div>
+            {% endcomment %}
           </div>
         {% endif %}
       </div>
