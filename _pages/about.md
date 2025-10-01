@@ -4,7 +4,7 @@ title: about
 permalink: /
 profile:
   align: right
-  image: prof_pic.jpg   # 头像放在 assets/img/ 下
+  image: WechatIMG1798.jpg   # 头像放在 assets/img/ 下
   image_circular: false            # 想要圆形头像就改成 true
   address: >
     University of North Carolina at Chapel Hill  
@@ -28,7 +28,7 @@ My research focuses on biomedical and health informatics, data science, digital 
 
 Previously, I hold an M.S. in Biostatistics from the University of Michigan–Ann Arbor and a B.S. in Statistics & Mathematics from the University of Wisconsin–Madison.
 
-**Research areas**
+**Research Areas**
 - **AI for health:** retrieval-augmented generation (RAG), NLP for clinical notes, AI-driven clinical decision support systems, and safety/privacy.  
 - **Data science & digital health:** knowledge representation (knowledge graphs and knowledge bases).
 - **Biostatistics & bioinformatics:** risk prediction and stratified management, cognition/behavior studies. 
