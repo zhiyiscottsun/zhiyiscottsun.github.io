@@ -10,9 +10,9 @@ cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
 #   sidebar: left
 ---
 
-<iframe 
-  src="/assets/pdf/example_pdf.pdf" 
-  width="100%" 
-  height="800px" 
-  style="border: none;">
-</iframe>
+<style>
+  .post-header { display: none; }
+</style>
+
+<script>location.href="/assets/pdf/example_pdf.pdf";</script>
+<p><a href="/assets/pdf/example_pdf.pdf">📄 Download my CV (PDF)</a></p>
