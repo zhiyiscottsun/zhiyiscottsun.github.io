@@ -10,13 +10,17 @@ nav_order: 5
 #   sidebar: left
 ---
 
+<style>
+  .post-header { display: none; }
+</style>
+
 <div style="position: relative;">
 
   <a href="/assets/pdf/example_pdf.pdf" target="_blank" 
      style="position: absolute; top: 10px; right: 10px; z-index: 10; 
             background: white; padding: 6px 10px; border-radius: 4px; 
             border: 1px solid #ddd; text-decoration: none; font-size: 14px;">
-    ⤢ Open
+    ↗
   </a>
 
   <iframe 
