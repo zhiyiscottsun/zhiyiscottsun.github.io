@@ -14,6 +14,13 @@ nav_order: 5
   .post-header { display: none; }
 </style>
 
-<script>location.href="/assets/pdf/example_pdf.pdf";</script>
+<script>
+  window.location.href="/assets/pdf/example_pdf.pdf";
+</script>
 
-<p>If not redirected, <a href="/assets/pdf/example_pdf.pdf">click here to view my CV</a>.</p>
+<p>
+  If not redirected, 
+  <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener">
+    click here to view my CV
+  </a>.
+</p>
