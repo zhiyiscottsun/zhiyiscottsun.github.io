@@ -14,20 +14,6 @@ nav_order: 5
   .post-header { display: none; }
 </style>
 
-<div style="position: relative;">
+<script>location.href="/assets/pdf/example_pdf.pdf";</script>
 
-  <a href="/assets/pdf/example_pdf.pdf" target="_blank" 
-     style="position: absolute; top: 10px; right: 10px; z-index: 10; 
-            background: white; padding: 6px 10px; border-radius: 4px; 
-            border: 1px solid #ddd; text-decoration: none; font-size: 14px;">
-    ↗
-  </a>
-
-  <iframe 
-    src="/assets/pdf/example_pdf.pdf" 
-    width="100%" 
-    height="800px" 
-    style="border: none;">
-  </iframe>
-
-</div>
+<p>If not redirected, <a href="/assets/pdf/example_pdf.pdf">click here to view my CV</a>.</p>
