@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Conferences%20&%20Events/index.html";
+            window.location.href = "/conferences-events/index.html";
           },
         },{id: "nav-publications",
           title: "Publications",
