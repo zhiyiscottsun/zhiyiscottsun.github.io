@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /Conferences & Events/
 title: Conferences & Events
 nav: true
 nav_order: 1
