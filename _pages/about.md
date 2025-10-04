@@ -33,4 +33,4 @@ Previously, I hold an M.S. in Biostatistics from the University of Michigan–An
 - **Data science & digital health:** knowledge representation (knowledge graphs and knowledge bases).
 - **Biostatistics & bioinformatics:** risk prediction and stratified management, cognition/behavior studies.
 
-
+<br>
