@@ -31,4 +31,6 @@ Previously, I hold an M.S. in Biostatistics from the University of Michigan–An
 **Research Areas**
 - **AI for health:** retrieval-augmented generation (RAG), NLP for clinical notes, AI-driven clinical decision support systems, and safety/privacy.  
 - **Data science & digital health:** knowledge representation (knowledge graphs and knowledge bases).
-- **Biostatistics & bioinformatics:** risk prediction and stratified management, cognition/behavior studies. 
+- **Biostatistics & bioinformatics:** risk prediction and stratified management, cognition/behavior studies.
+
+
