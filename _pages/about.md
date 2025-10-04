@@ -24,7 +24,7 @@ latest_posts:
 
 I’m a PhD student in the Carolina Health Informatics Program (CHIP) at the University of North Carolina at Chapel Hill.
 
-My research focuses on biomedical and health informatics, data science, digital health, human–computer interaction, and AI for health, with emphasis on large language models (LLMs) in healthcare, retrieval-augmented generation (RAG), human–AI collaboration and alignment, clinical decision support, and precision health and medicine.
+My research focuses on biomedical and health informatics, data science, digital health, human–computer interaction, and AI for health, with emphasis on large language models (LLMs) in healthcare, human–AI collaboration and alignment, clinical decision support, and precision health and medicine.
 
 Previously, I worked as a research assistant at the University of Michigan Medical School and the University of Michigan–Dearborn. I hold an M.S. in Biostatistics from the University of Michigan–Ann Arbor and a B.S. in Statistics & Mathematics from the University of Wisconsin–Madison.
 
