@@ -19,7 +19,7 @@ pagination:
 <style>
   .post-list .post-title {
     font-size: 1.1rem !important;
-    font-weight: 500 !important;
+    font-weight: 400 !important;
   }
 </style>
 
