@@ -78,7 +78,7 @@ ninja.data = [{
         
           title: "Iterative Prompt Engineering Using LLMs for Authoring Precision Feedback Messages",
         
-        description: "MCBK (Mobilizing Computable Biomedical Knowledge) Global Meeting 2024",
+        description: "MCBK Global Meeting 2024, Virtual",
         section: "Posts",
         handler: () => {
           
