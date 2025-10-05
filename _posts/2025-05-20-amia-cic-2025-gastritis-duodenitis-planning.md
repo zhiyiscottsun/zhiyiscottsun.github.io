@@ -4,5 +4,5 @@ title: "Supporting Healthcare Planning and Resource Management for Gastritis and
 date: 2025-05-20
 description: "AMIA 2025 Clinical Informatics Conference, Anaheim, CA"
 categories: conferences
-tags: poster 2025
+tags: "poster 2025"
 ---
