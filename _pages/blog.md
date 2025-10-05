@@ -14,6 +14,12 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
+
+_styles: |
+  .post-list .post-title {
+    font-size: 1.1rem !important;
+    font-weight: 500 !important;
+  }
 ---
 
 <div class="post">
