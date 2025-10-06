@@ -45,7 +45,7 @@ ninja.data = [{
         
           title: "Using Large Language Models for Child-Friendly Narratives in Pediatric IBD Education",
         
-        description: "Society of Behavioral Medicine (SBM 2025 Annual Meeting), San Francisco, CA",
+        description: "SBM 2025 Annual Meeting, San Francisco, CA",
         section: "Posts",
         handler: () => {
           
