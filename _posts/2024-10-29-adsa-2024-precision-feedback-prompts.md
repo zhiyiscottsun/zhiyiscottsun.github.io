@@ -6,4 +6,4 @@ categories: conferences
 tags: poster
 ---
 
-[📄 View the poster (PDF)](/assets/files/ADSA2024_Poster.pdf)
+[📄 View the poster (PDF)](/assets/pdf/ADSA2024_Poster.pdf)
