@@ -6,4 +6,4 @@ categories: conferences
 tags: poster
 ---
 
-[📄 View the poster (PDF)](/assets/pdf/ADSA'24_Poster.pdf)
+[📄 View the poster (PDF)]({{ '/assets/pdf/ADSA24_Poster.pdf' | relative_url }})
