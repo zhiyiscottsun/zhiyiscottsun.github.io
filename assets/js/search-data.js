@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-supporting-healthcare-planning-and-resource-management-for-gastritis-and-duodenitis-using-large-language-models",
+        },{id: "post-reviewer-2025-amia-annual-symposium-november-2025",
+        
+          title: "Reviewer - 2025 AMIA Annual Symposium, November 2025",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/conferences-events/2025/amia-2025-reviewer/";
+          
+        },
+      },{id: "post-supporting-healthcare-planning-and-resource-management-for-gastritis-and-duodenitis-using-large-language-models",
         
           title: "Supporting Healthcare Planning and Resource Management for Gastritis and Duodenitis Using Large Language...",
         
