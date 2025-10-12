@@ -96,11 +96,11 @@ ninja.data = [{
             window.location.href = "/conferences-events/2024/mcbk-2024-iterative-prompt-engineering/";
           
         },
-      },{id: "post-reviewer-2025-aspph-annual-meeting-for-academic-public-health",
+      },{id: "post-reviewer-2025-aspph-annual-meeting-for-academic-public-health-march-2025",
         
-          title: "Reviewer - 2025 ASPPH Annual Meeting for Academic Public Health",
+          title: "Reviewer - 2025 ASPPH Annual Meeting for Academic Public Health, March 2025",
         
-        description: "Association of Schools and Programs of Public Health (ASPPH), Oct 2024",
+        description: "Association of Schools and Programs of Public Health (ASPPH)",
         section: "Posts",
         handler: () => {
           
